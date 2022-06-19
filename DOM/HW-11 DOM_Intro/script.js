@@ -4,5 +4,4 @@ function btnClick() {
     document.getElementById('span-block').innerText = `Hello ${input}`;
     const click = document.getElementById('main');
     click.classList.toggle("main-d-none")
-
 }
