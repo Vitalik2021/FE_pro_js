@@ -1,0 +1,19 @@
+/*input:checked + span {*/
+/*    text-decoration: line-through;*/
+
+/*}*/
+li.checked > span{
+    text-decoration: line-through;
+}
+.hidden{
+    display: none;
+}
+input[type="checkbox" i] {
+    display: flex;
+}
+li{
+    display: flex;
+    left: 45px;
+    position: relative;
+
+}
